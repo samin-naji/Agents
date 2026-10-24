@@ -1,0 +1,15 @@
+# Secret keys and environment variables
+.env
+.env.*
+!.env.example
+
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
